@@ -1,7 +1,7 @@
 # Quillo Beta v1.0-B1
 
 ## Overview
-Welcome to Quillo v1.0-1B, the first Beta for the versatile command-line web browser designed to enhance your browsing experience.
+Welcome to Quillo v1.0-B1, the first Beta for the versatile command-line web browser designed to enhance your browsing experience.
 
 ## Getting Started
 Launch Quillo effortlessly with the following command:
